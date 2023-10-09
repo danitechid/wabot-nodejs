@@ -16,7 +16,7 @@
 ## Instalasi
 ### Instal/clone proyek
 ```bash
-git clone https://github.com/danitechid.com/wabot-nodejs.git
+git clone https://github.com/danitechid/wabot-nodejs.git
 ```
 
 ### Pimdah Direktori (CD)
