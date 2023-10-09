@@ -14,6 +14,16 @@
 12. Owner/Admin
 
 ## Instalasi
+### Instal/clone proyek
+```bash
+git clone https://github.com/danitechid.com/wabot-nodejs.git
+```
+
+### Pimdah Direktori (CD)
+```bash
+cd wabot-nodejs
+```
+
 ### MongoDb
 #### Buat akun dan database MongoDb
 Daftar dan buat database dan dapatkan MongoDb URI: <a href="https://mongodb.com">https://mongodb.com</a>
