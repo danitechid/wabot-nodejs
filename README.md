@@ -56,12 +56,17 @@ yarn install
 ```
 
 ### Jalankan server
-### Npm
+#### Npm
 ```bash
 npm run start
 ```
 
-### Node
+#### Yarn
+```bash
+yarn run start
+```
+
+#### Node
 ```bash
 node run start
 ```
